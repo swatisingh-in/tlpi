@@ -1,2 +1,2 @@
 # tlpi
-The LinuX programming Interface
+The Linux Programming Interface
